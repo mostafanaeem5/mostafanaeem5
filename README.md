@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mostafanaeem5
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Angular&.Net
+- 👀 A fullstack engineer focused in backend
 - 📫 If you want to reach me, Send an email at mostafanaeem55@gmail.com
 
 <!---
